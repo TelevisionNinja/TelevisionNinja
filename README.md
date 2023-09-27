@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm TelevisionNinja</h1>
-<h3 align="center">A student majoring in computer science with a minor in mathematics</h3>
+<h3 align="center">A graduate in computer science with a minor in mathematics</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=televisionninja&label=Profile%20views&color=0e75b6&style=flat" alt="televisionninja" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=televisionninja" alt="televisionninja" /></a> </p>
 
-- 🔭 I’m currently working on [my bachelor of science in computer science](https://computer-science-and-computer-engineering.uark.edu/index.php)
+- 🔭 I have a [bachelor of science in computer science](https://computer-science-and-computer-engineering.uark.edu/index.php) with a minor in mathematics
 
-- 🌱 I’m currently learning **artificial intelligence, algorithms, formal languages and computability, information retrieval, and cryptography**
+- 🌱 I’m currently studying **artificial intelligence, algorithms, data structures, and formal languages and computability**
 
-- 💬 Ask me about **Node.js and mathematics**
+- 💬 Ask me about **Node.js, AI, and mathematics**
 
 - 📫 How to reach me **TelevisionNinja@gmail.com**
 
