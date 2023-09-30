@@ -31,8 +31,8 @@
 <a href="https://github.com/televisionninja">
 <img src="https://github-stats-alpha.vercel.app/api?username=televisionninja">
 </a>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=televisionninja&layout=compact&show_icons=true&locale=en&hide=css,scss,html" alt="televisionninja" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=televisionninja&show_icons=true&locale=en" alt="televisionninja" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=televisionninja&layout=compact&show_icons=true&locale=en&hide=css,scss,html" alt="televisionninja" />
+<img src="https://github-readme-stats.vercel.app/api?username=televisionninja&show_icons=true&locale=en" alt="televisionninja" />
 <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://github-profile-trophy.vercel.app/?username=televisionninja" alt="televisionninja" />
 </a>
