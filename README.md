@@ -7,8 +7,9 @@
     <a href="https://github.com/televisionninja">
         <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=35&duration=2000&pause=4000&color=F7F7F7&background=22272e&multiline=true&center=true&lines=Hi%20%F0%9F%91%8B%2C%20I'm%20TelevisionNinja" alt="Typing SVG" />
     </a>
-    </br>
-    <img src="https://komarev.com/ghpvc/?username=televisionninja&color=blue&style=flat" alt="televisionninja" />
+    <div id="count">
+        <img src="https://komarev.com/ghpvc/?username=televisionninja&color=blue&style=flat" alt="televisionninja" />
+    </div>
 </div>
 
 <h3 align="left">About Me:</h3>
