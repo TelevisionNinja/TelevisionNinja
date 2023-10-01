@@ -16,7 +16,7 @@
 
 ### About Me:
 
-- 🔭 I have a [bachelor of science in computer science](https://computer-science-and-computer-engineering.uark.edu/index.php) and a minor in mathematics
+- 🎓 I have a [bachelor of science in computer science](https://computer-science-and-computer-engineering.uark.edu/index.php) and a minor in mathematics
 
 - 🌱 I’m currently studying **artificial intelligence, algorithms, data structures, and formal languages and computability**
 
