@@ -5,7 +5,7 @@
         <a href="https://discord.gg/wG8PfEdWJK" target="blank"> <img align="center" src="https://img.shields.io/badge/discord-blue?style=for-the-badge&logo=discord" alt="wG8PfEdWJK" /> </a>
     </div>
     <div id="greeting">
-        <a href="https://github.com/televisionninja"> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=35&duration=2000&pause=4000&color=e6edf3&background=0d1117&multiline=true&center=true&lines=Hi%20%F0%9F%91%8B%2C%20I'm%20TelevisionNinja" alt="Typing SVG" /> </a>
+        <a href="https://github.com/televisionninja"> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=35&duration=2000&pause=4000&color=e6edf3&background=0d1117&multiline=true&center=true&width=512&lines=Hi%20%F0%9F%91%8B%2C%20I'm%20TelevisionNinja" alt="Typing SVG" /> </a>
     </div>
     <div id="count">
         <a href="https://github.com/televisionninja"> <img src="https://komarev.com/ghpvc/?username=televisionninja&color=blue&style=flat" alt="televisionninja" /> </a>
